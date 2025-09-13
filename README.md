@@ -34,7 +34,7 @@ Below is the workflow of how the WhatsApp AI Agent operates:
 ### 1. Clone the Repository
 
 `bash
-git clone git@github.com:Ezrawambugu/Whatsapp-business-AI-Agent.git
+git clone https://github.com/Ezrawambugu/Whatsapp-business-AI-Agent.git
 cd whatsapp-ai-agent
 
 2. Install Dependencies
